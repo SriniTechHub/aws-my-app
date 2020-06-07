@@ -1,0 +1,7 @@
+{
+    "name": "aws-my-app",
+    "private": true,
+    "dependencies": {
+        "uuid": "^8.1.0"
+    }
+}
